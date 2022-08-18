@@ -6,4 +6,4 @@ I am especially interested in the short-term effects on mortality of medical adv
 My teaching interests include microeconomics, economic history, health, and labor economics.
 I received a B.A. and an M.A. in economics from the Universidad de Chile, and a Ph.D. from the University of California, Davis.
 
-**Email:** cfs32@duke.edu
+**Email:** [cfs32@duke.edu](mailto:cfs32@duke.edu)
