@@ -1,6 +1,6 @@
 ## About Me
 
-I am an Assistant Professor of Economics at Duke Kunshan University.
+I am an [Assistant Professor of Economics](https://faculty.dukekunshan.edu.cn/faculty_profiles/saez-muller-camila) at [Duke Kunshan University](https://www.dukekunshan.edu.cn).
 My research focus is the intersection of economic history, health, and labor economics.
 I am especially interested in the short-term effects on mortality of medical advances and their long-term consequences, focusing on developing regions.
 My teaching interests include microeconomics, economic history, health, and labor economics.
